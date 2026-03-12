@@ -59,7 +59,7 @@ Relevant Coursework:
 
 **Data Structures Implementations**
 
-* Designed a user-interactive, terminal game called txtfighter using C++
+* a simple C++ text-based fighting game with object-oriented programming concepts 
 * Implemented stacks, queues, and linked lists in C++
 * Practiced algorithm efficiency and memory management
 
