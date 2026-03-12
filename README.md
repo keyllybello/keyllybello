@@ -34,6 +34,7 @@ Relevant Coursework:
 * Data Structures
 * Computer Architecture
 * Object-Oriented Programming
+* Systems Programming
 
 ---
 
@@ -58,12 +59,14 @@ Relevant Coursework:
 
 **Data Structures Implementations**
 
+* Designed a user-interactive, terminal game called txtfighter using C++
 * Implemented stacks, queues, and linked lists in C++
 * Practiced algorithm efficiency and memory management
 
 **Java Programs**
 
-* Designed a Java application using OOP principles
+* Designed a Java FX calculator using OOP principles
+* Designed a program that implements a binary search tree using Java
 * Implemented stacks, queues, and linked lists using Java
 * Implemented classes, inheritance, and encapsulation
 
